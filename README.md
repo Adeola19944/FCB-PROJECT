@@ -13,5 +13,5 @@
   SELECT * FROM TABLE 1
   WHERE CONDITION = NET
   ```
-![](Screenshot-2023-06-13 1605201.png)
+
 
